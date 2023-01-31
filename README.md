@@ -133,7 +133,7 @@ Fun fact: This is called af++ or AxylFetch++ because this was actually based on 
 ---
 ![](https://github.com/TanbinIslam43/mydotfiles/blob/main/.config/neofetch/screenshot.png)
 ---
-[rafgam10](https://github.com/rafgam10/my-neofetch/blob/main/my-neofetch.txt)
+[rafgam10](https://github.com/rafgam10/my-neofetch/blob/main/my-neofetch.conf)
 ---
 ![rafgam10](https://github.com/rafgam10/my-neofetch/blob/main/Captura%20de%20tela%20de%202022-12-30%2023-46-34.png)
 
